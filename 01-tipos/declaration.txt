@@ -1,0 +1,36 @@
+expressions = expresiones
+declaration = declaraciones orales
+statement = declaracion textual o escrita
+
+pero en programacion se llaman de manera distinta o significan al go distinto
+
+DECLARATION
+cuando vas a crear algo que vas a utilizar en el futuro
+let = variable
+const =  constantes
+function
+function*
+async function
+async funtion*
+class
+export/import
+
+STATEMENT
+lo que no se uilizara en el futuro en un stamenet 
+it 
+for 
+else 
+switch 
+ EXPRESSIONS 
+  cualquier tipo de codigo que evaluo un valor
+   4+6 = 10
+   x = 4
+   mi funcion()
+   cada vez que el codigo haga algo(logica tareas) y obtengamos un resultado es una expresion
+   OPERADORES 
+   aritmeticos 
+   asignacion 
+   comparacion
+   logicos
+   bitwise
+   nos permitiran crear expresiones y ejecutar algorithmos
